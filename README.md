@@ -1,2 +1,2 @@
-# prgs
+# Programs
 Programs Hiome
